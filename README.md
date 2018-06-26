@@ -80,8 +80,7 @@ The final RMSE values are following:
 - Y: 0.0819
 - VX: 0.3394
 - VY: 0.2233
-</br>
-</br>
+
 
 ## NIS (Normalized Innvation Squared)
 
