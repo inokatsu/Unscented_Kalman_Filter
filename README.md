@@ -37,7 +37,7 @@ OUTPUT: values provided by the c++ program to the simulator
 
 [//]: # (Image References)
 
-[image1]: ./pic/example_pic.png "Result"
+[image1]: ./pic/result_movie.mov.gif "Result"
 [image2]: ./pic/NIS1.png "NIS formula"
 [image3]: ./pic/NIS_table.png "NIS table"
 [image4]: ./pic/NIS_lidar.png "NIS lidar"
@@ -69,7 +69,8 @@ from the simulator.
 ---
 
 ## Result
-The image below is an image of the simulator.
+The image below is an gif of the simulator.
+
 ![alt text][image1]
 
 ### RMSE(Root Mean Square Error)
